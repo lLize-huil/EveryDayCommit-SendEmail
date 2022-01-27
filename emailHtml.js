@@ -53,7 +53,7 @@ function fn(weatherData, lifeData, content, imgurl, lovingDays, logDays) {
               ${daily[0].text}
             </li>
             <li style="margin-bottom: 10px">
-              熬不住了...呜呜呜..T_T...我好想你啊..我想打电话
+              憋不住了...T_T...我好想你啊..
             </li>
           </ul>
         </div>
