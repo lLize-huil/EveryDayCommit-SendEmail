@@ -53,7 +53,7 @@ function fn(weatherData, lifeData, content, imgurl, lovingDays, logDays) {
               ${daily[0].text}
             </li>
             <li style="margin-bottom: 10px">
-              合情，合理，合法，和你，我爱你~~
+              合情，合理，合法，和你，我爱你哦~~
             </li>
           </ul>
         </div>
