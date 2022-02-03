@@ -53,10 +53,10 @@ function fn(weatherData, lifeData, content, imgurl, lovingDays, logDays) {
               ${daily[0].text}
             </li>
             <li style="margin-bottom: 10px">
-              时间是最公平的审判官
+              情书是我一字字写的，画是我一点点涂的，折纸是我一个个做的，代码是我一行行敲的，你是世界上独一无二的，我为你做的事也是世上独一无二的，没有人能和你相提并论
             </li>
             <li style="margin-bottom: 10px">
-              今天也要开心哦，秋涵，我爱你~
+              希望你今天也开心，秋涵，我爱你
             </li>
           </ul>
         </div>
