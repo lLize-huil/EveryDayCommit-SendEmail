@@ -53,7 +53,7 @@ function fn(weatherData, lifeData, content, imgurl, lovingDays, logDays) {
               ${daily[0].text}
             </li>
             <li style="margin-bottom: 10px">
-              情书是我一字字写的，画是我一点点涂的，折纸是我一个个做的，代码是我一行行敲的，你是世界上独一无二的，我为你做的事也是世上独一无二的，没有人能和你相提并论
+              两个人相互辉映，光芒胜过夜晚繁星，我为你翻山越岭却无心看风景。
             </li>
             <li style="margin-bottom: 10px">
               希望你今天也开心，秋涵，我爱你
