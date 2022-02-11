@@ -53,7 +53,7 @@ function fn(weatherData, lifeData, content, imgurl, lovingDays, logDays) {
               ${daily[0].text}
             </li>
             <li style="margin-bottom: 10px">
-              两个人相互辉映，光芒胜过夜晚繁星，我为你翻山越岭却无心看风景。
+              <a href="https://music.163.com/song?id=1828026086&userid=616425958">点此跳转到每天给你分享的音乐哦~</a>
             </li>
             <li style="margin-bottom: 10px">
               希望你今天也开心，秋涵，我爱你
