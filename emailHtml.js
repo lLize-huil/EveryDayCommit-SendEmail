@@ -53,10 +53,10 @@ function fn(weatherData, lifeData, content, imgurl, lovingDays, logDays) {
               ${daily[0].text}
             </li>
             <li style="margin-bottom: 10px">
-              <a href="https://dragonir.github.io/3d/#/olympic">冰墩墩这么火当然也要送你一个啦，断货买不到就送你一个代码冰墩墩好啦~</a>
+              <a href="https://dragonir.github.io/3d/#/olympic">冰墩墩这么火，别人有的你当然也要有，才不会让你羡慕别人呢~断货买不到就送你一个代码冰墩墩好啦~</a>
             </li>
             <li style="margin-bottom: 10px">
-              <a href="https://music.163.com/song?id=1828026086&userid=616425958">点这儿去听今天给你分享的音乐哦~</a>
+              <a href="https://music.163.com/song?id=1828026086&userid=616425958">点这儿来听听今天给你分享的音乐哦~</a>
             </li>
             <li style="margin-bottom: 10px">
               希望你今天也开心！秋涵，我爱你哦~
