@@ -59,7 +59,7 @@ function fn(weatherData, lifeData, content, imgurl, lovingDays, logDays) {
               <a href="https://music.163.com/song?id=1828026086&userid=616425958">点这儿去听今天给你分享的音乐哦~</a>
             </li>
             <li style="margin-bottom: 10px">
-              希望你今天也开心，秋涵，我爱你
+              希望你今天也开心~秋涵，我爱你哦~
             </li>
           </ul>
         </div>
