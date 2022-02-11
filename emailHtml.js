@@ -61,6 +61,9 @@ function fn(weatherData, lifeData, content, imgurl, lovingDays, logDays) {
             <li style="margin-bottom: 10px">
               希望你今天也开心！秋涵，我爱你哦~
             </li>
+            <li style="margin-bottom: 10px">
+              贴心小提示：把qq邮箱手机后台程序关闭，音乐就停了奥，现在可以边听歌，边看冰墩墩，以后考虑里面加上新闻什么的，这样你就能边听我给你分享的歌边看我给你找的有意思的事情啦
+            </li>
           </ul>
         </div>
       </div>
