@@ -62,7 +62,7 @@ function fn(weatherData, lifeData, content, imgurl, lovingDays, logDays) {
               <a href="http://www.zhangzhiyu.live:8900/3d/">冰墩墩这么火，别人有的你当然也要有，才不会让你羡慕别人呢~断货买不到就送你一个代码冰墩墩好啦~</a>
             </li>
             <li style="margin-bottom: 10px">
-              希望你今天也开心！秋涵，我爱你哦~
+              情。。emmmm(￣ε(#￣)算了不说了，怕你说我，节日快乐！秋涵，我爱你哦~
             </li>
           </ul>
         </div>
