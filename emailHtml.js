@@ -56,7 +56,7 @@ function fn(weatherData, lifeData, content, imgurl, lovingDays, logDays) {
               贴心小提示：可以边听歌，边看冰墩墩哦，点击下方链接，然后返回邮件界面再点击冰墩墩链接就可以啦！冰墩墩界面可以进行放大缩小哦~
             </li>
             <li style="margin-bottom: 10px">
-              <a href="https://music.163.com/song?id=254485&userid=616425958">点这儿来听听今天给你分享的音乐哦~</a>
+              <a href="https://c.y.qq.com/base/fcgi-bin/u?__=O2YYdqov4tMP">点这儿来听听今天给你分享的音乐哦~</a>
             </li>
             <li style="margin-bottom: 10px">
               <a href="http://www.zhangzhiyu.live:8900/3d/">冰墩墩这么火，别人有的你当然也要有，才不会让你羡慕别人呢~断货买不到就送你一个代码冰墩墩好啦~</a>
