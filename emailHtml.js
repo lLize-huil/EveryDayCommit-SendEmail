@@ -56,6 +56,9 @@ function fn(weatherData, lifeData, content, imgurl, lovingDays, logDays) {
               贴心小提示：可以边听歌，边看冰墩墩哦，点击下方链接，然后返回邮件界面再点击冰墩墩链接就可以啦！冰墩墩界面可以进行放大缩小哦~
             </li>
             <li style="margin-bottom: 10px">
+              <a href="https://v.douyin.com/LtGmgWX/">因为看到这个很感动，所以给你分享这首歌</a>
+            </li>
+            <li style="margin-bottom: 10px">
               <a href="https://music.163.com/song?id=191060&userid=616425958">这就是爱~爱~爱~(づ￣ 3￣)づ</a>
             </li>
             <li style="margin-bottom: 10px">
