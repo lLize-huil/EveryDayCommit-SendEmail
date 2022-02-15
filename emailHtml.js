@@ -56,16 +56,13 @@ function fn(weatherData, lifeData, content, imgurl, lovingDays, logDays) {
               贴心小提示：可以边听歌，边看冰墩墩哦，点击下方链接，然后返回邮件界面再点击冰墩墩链接就可以啦！冰墩墩界面可以进行放大缩小哦~
             </li>
             <li style="margin-bottom: 10px">
-              <a href="https://v.douyin.com/LtGmgWX/">因为看到这个很感动，所以给你分享这首歌，我们一定会有以后的，慢慢来</a>
-            </li>
-            <li style="margin-bottom: 10px">
-              <a href="https://music.163.com/song?id=191060&userid=616425958">这，就是爱</a>
+              <a href="https://music.163.com/song?id=1407789605&userid=616425958">点这来看看今天是什么音乐叭</a>
             </li>
             <li style="margin-bottom: 10px">
               <a href="http://www.zhangzhiyu.live:8900/3d/">冰墩墩这么火，别人有的你当然也要有，才不会让你羡慕别人呢~断货买不到就送你一个代码冰墩墩好啦~</a>
             </li>
             <li style="margin-bottom: 10px">
-              元宵节快乐！秋涵，我爱你哦~
+              今天也要开心呐！秋涵，我爱你哦~
             </li>
           </ul>
         </div>
