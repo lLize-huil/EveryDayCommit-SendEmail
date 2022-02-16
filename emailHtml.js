@@ -59,7 +59,7 @@ function fn(weatherData, lifeData, content, imgurl, lovingDays, logDays) {
               <a href="https://music.163.com/song?id=456167591&userid=616425958">这首歌不是写我呢嘛哈哈</a>
             </li>
             <li style="margin-bottom: 10px">
-              <a href="http://www.zhangzhiyu.live:8900/3d/">冰墩墩这么火，别人有的你当然也要有，才不会让你羡慕别人呢~断货买不到就送你一个代码冰墩墩好啦~</a>
+              <a href="http://www.zhangzhiyu.live:8900/3d/">冰墩墩有彩色围脖啦</a>
             </li>
             <li style="margin-bottom: 10px">
               今天也要开心呐！秋涵，我爱你哦~
