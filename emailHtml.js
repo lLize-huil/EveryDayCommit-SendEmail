@@ -53,7 +53,7 @@ function fn(weatherData, lifeData, content, imgurl, lovingDays, logDays) {
               ${daily[0].text}
             </li>
             <li style="margin-bottom: 10px">
-              贴心小提示：之前的服务器崩了，重新部署的，但是新的代码没有缩放了
+              贴心小提示：之前的服务器内存空间太小了，很容易崩，所以直接用源码作者的服务器地址了，但是新的代码没有缩放功能了
             </li>
             <li style="margin-bottom: 10px">
               <a href="https://music.163.com/song?id=1842025914&userid=616425958">这是一首很温暖的歌，好听~</a>
