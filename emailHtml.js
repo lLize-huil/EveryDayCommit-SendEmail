@@ -53,13 +53,13 @@ function fn(weatherData, lifeData, content, imgurl, lovingDays, logDays) {
               ${daily[0].text}
             </li>
             <li style="margin-bottom: 10px">
-              贴心小提示：可以边听歌，边看冰墩墩哦，点击下方链接，然后返回邮件界面再点击冰墩墩链接就可以啦！冰墩墩界面可以进行放大缩小哦~
+              贴心小提示：之前的服务器崩了，重新部署的，但是新的代码没有缩放了
             </li>
             <li style="margin-bottom: 10px">
               <a href="https://music.163.com/song?id=1842025914&userid=616425958">这是一首很温暖的歌，好听~</a>
             </li>
             <li style="margin-bottom: 10px">
-              <a href="http://www.zhangzhiyu.live:8900/3d/">冰墩墩有彩色围脖啦</a>
+              <a href="https://dragonir.github.io/3d/#/olympic">冰墩墩和雪融融~</a>
             </li>
             <li style="margin-bottom: 10px">
               今天也要开心呐！秋涵，我爱你哦~
