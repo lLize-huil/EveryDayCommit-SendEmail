@@ -56,7 +56,7 @@ function fn(weatherData, lifeData, content, imgurl, lovingDays, logDays) {
               贴心小提示：冰墩墩和雪融融没法缩放哦~觉得视角小可以用平板观看
             </li>
             <li style="margin-bottom: 10px">
-              <a href="https://music.163.com/song?id=1313052971&userid=616425958">给你点提示：时间是让人猝不及防的东西~~</a>
+              <a href="https://music.163.com/song?id=26090100&userid=616425958">有的时候我看着你会哭，不光是因为想到了从前，更是想看你慢慢变老，不想错过一丝一毫</a>
             </li>
             <li style="margin-bottom: 10px">
               <a href="https://dragonir.github.io/3d/#/olympic">冰墩墩和雪融融~</a>
