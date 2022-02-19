@@ -65,7 +65,7 @@ function fn(weatherData, lifeData, content, imgurl, lovingDays, logDays) {
               今天去给你做甜品去~哈哈~
             </li>
             <li style="margin-bottom: 10px">
-              秋涵，我爱你哦~
+              今天也要开心哦~秋涵，我爱你~
             </li>
           </ul>
         </div>
