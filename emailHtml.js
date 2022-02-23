@@ -56,7 +56,7 @@ function fn(weatherData, lifeData, content, imgurl, lovingDays, logDays) {
               贴心小提示：冰墩墩和雪融融没法缩放哦~觉得视角小可以用平板观看
             </li>
             <li style="margin-bottom: 10px">
-              <a href="https://music.163.com/song?id=441491828&userid=616425958">太阳的逃逸速度是16.7千米/秒，水星的逃逸速度是4.435千米/秒，逃逸不意味着远离，恰恰相反，"水星"正以每秒12.265千米的速度奔向"太阳"</a>
+              <a href="https://music.163.com/song?id=569200210&userid=616425958">给你我穿越人海定格的视线，给你我热泪盈眶失神的瞬间，给你我写的情书一篇又一篇，给你我温柔的守护一年又一年</a>
             </li>
             <li style="margin-bottom: 10px">
               <a href="https://dragonir.github.io/3d/#/olympic">冰墩墩和雪融融~</a>
