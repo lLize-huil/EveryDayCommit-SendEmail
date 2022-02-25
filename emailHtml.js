@@ -56,7 +56,7 @@ function fn(weatherData, lifeData, content, imgurl, lovingDays, logDays) {
               贴心小提示：冰墩墩和雪融融没法缩放哦~觉得视角小可以用平板观看
             </li>
             <li style="margin-bottom: 10px">
-              <a href="https://music.163.com/song?id=1491585&userid=616425958">一首Traveling Light《轻装前行》，送给我的心上人~</a>
+              <a href="https://music.163.com/song?id=1491585&userid=616425958">这首歌叫Traveling Light《轻装前行》\n送给我的心上人，希望她做她自己\nTraveling Light</a>
             </li>
             <li style="margin-bottom: 10px">
               <a href="https://dragonir.github.io/3d/#/olympic">冰墩墩和雪融融~</a>
