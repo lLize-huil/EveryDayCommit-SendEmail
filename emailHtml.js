@@ -62,7 +62,7 @@ function fn(weatherData, lifeData, content, imgurl, lovingDays, logDays) {
               <a href="https://dragonir.github.io/3d/#/olympic">冰墩墩和雪融融~</a>
             </li>
             <li style="margin-bottom: 10px">
-              今天也要开心哦~秋涵，我爱你~
+              秋涵，我爱你，我对你会做到周秉义一心一意的不离不弃，和周秉昆傻里傻气的义无反顾，你要去支教我支持你，我会和你一起的，我担心你自己不安全，昨天晚上用室友手机打电话吵到你睡觉了，我很抱歉，对不起
             </li>
           </ul>
         </div>
