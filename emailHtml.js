@@ -56,13 +56,13 @@ function fn(weatherData, lifeData, content, imgurl, lovingDays, logDays) {
               贴心小提示：冰墩墩和雪融融没法缩放哦~觉得视角小可以用平板观看
             </li>
             <li style="margin-bottom: 10px">
-              <a href="https://music.163.com/song?id=1383927243&userid=616425958">在这个快餐时代，我遇见了小火慢炖的粥</a>
+              <a href="https://y.music.163.com/m/song?id=478507889&userid=616425958">听说演奏卡农，就像追逐幸福一样，忽远忽近，一个音符追逐另一个音符的感觉</a>
             </li>
             <li style="margin-bottom: 10px">
               <a href="https://dragonir.github.io/3d/#/olympic">冰墩墩和雪融融~</a>
             </li>
             <li style="margin-bottom: 10px">
-              秋涵，我爱你，我对你会做到周秉义一心一意的不离不弃，和周秉昆傻里傻气的义无反顾，你要去支教我支持你，我会和你一起的，我担心你自己不安全，昨天晚上用室友手机打电话吵到你睡觉了，我很抱歉，对不起
+              秋涵，我爱你，我会努力学习努力多赚钱的，我一定会一直对你很好很好的
             </li>
           </ul>
         </div>
