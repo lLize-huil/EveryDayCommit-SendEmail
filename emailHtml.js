@@ -56,13 +56,13 @@ function fn(weatherData, lifeData, content, imgurl, lovingDays, logDays) {
               贴心小提示：冰墩墩和雪融融没法缩放哦~觉得视角小可以用平板观看
             </li>
             <li style="margin-bottom: 10px">
-              <a href="https://music.163.com/#/song?id=1894094482&userid=616425958">这几天你不怎么看消息也不怎么回我，秋涵，我很想你</a>
+              <a href="https://music.163.com/#/song?id=1894094482&userid=616425958">晚星就像你的眼睛杀人又放火～</a>
             </li>
             <li style="margin-bottom: 10px">
               <a href="https://dragonir.github.io/3d/#/olympic">冰墩墩和雪融融~</a>
             </li>
             <li style="margin-bottom: 10px">
-              希望你今天也开心，秋涵，我爱你。
+              今天也要开心哦～秋涵，我爱你～还有23天就能见到你啦～
             </li>
           </ul>
         </div>
