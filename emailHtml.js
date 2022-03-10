@@ -62,7 +62,7 @@ function fn(weatherData, lifeData, content, imgurl, lovingDays, logDays) {
               <a href="https://dragonir.github.io/3d/#/olympic">冰墩墩和雪融融~</a>
             </li>
             <li style="margin-bottom: 10px">
-              今天也要开心哦~秋涵，我爱你~~(*￣3￣)╭
+              希望你今天也开心，秋涵，我爱你。
             </li>
           </ul>
         </div>
